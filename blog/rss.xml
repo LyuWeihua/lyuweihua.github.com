@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ready.Work Blog</title>
+        <link>https://lyuweihua.github.io/blog</link>
+        <description>Ready.Work Blog</description>
+        <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Step Forward]]></title>
+            <link>https://lyuweihua.github.io/blog/step-forward</link>
+            <guid>step-forward</guid>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first version of the community version has released, it's really in a hurry, the documents and test cases have not been provided yet. It comes from the open source community, considering that some people might need it also, so I submitted it here, hope it helps you.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hurry Up]]></title>
+            <link>https://lyuweihua.github.io/blog/hurry-up</link>
+            <guid>hurry-up</guid>
+            <pubDate>Sun, 08 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I've been intermittently working on it for almost a year, and it is still far from my expected goal. Many ideas have not yet been implemented, and the basic framework still lacks many modules. The documents have not been sorted out, and there are no test cases. . . Shrink it first, and release a community version as soon as possible]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://lyuweihua.github.io/blog/start</link>
+            <guid>start</guid>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[What should I write? Ok, that is it. Ready to work. . .]]></description>
+        </item>
+    </channel>
+</rss>

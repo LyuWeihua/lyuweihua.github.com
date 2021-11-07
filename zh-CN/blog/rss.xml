@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ready.Work Blog</title>
+        <link>https://lyuweihua.github.io/blog</link>
+        <description>Ready.Work Blog</description>
+        <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[迈出一小步]]></title>
+            <link>https://lyuweihua.github.io/zh-CN/blog/step-forward</link>
+            <guid>step-forward</guid>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[社区版提交了第一个版本，文档和测试用例还没来得及补上。本框架来源自开源社区，完全属于自用框架，考虑到或许有人也会有需要，拆分整理出来提供给需要到人。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加油！加油！]]></title>
+            <link>https://lyuweihua.github.io/zh-CN/blog/hurry-up</link>
+            <guid>hurry-up</guid>
+            <pubDate>Sun, 08 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[断断续续的开发了快一年了，离预期目标还好远，好多想法还没实现，基础框架也还欠缺不少模块。文档还没整理，测试用例也没有。。。先收缩一下，尽快发一个社区版吧]]></description>
+        </item>
+        <item>
+            <title><![CDATA[开工了]]></title>
+            <link>https://lyuweihua.github.io/zh-CN/blog/start</link>
+            <guid>start</guid>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[写点什么呢？嗯，就这样。准备好了，开始干活。。。]]></description>
+        </item>
+    </channel>
+</rss>

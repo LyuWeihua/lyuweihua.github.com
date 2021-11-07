@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lyuweihua.github.io/blog</id>
+    <title>Ready.Work Blog</title>
+    <updated>2021-10-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lyuweihua.github.io/blog"/>
+    <subtitle>Ready.Work Blog</subtitle>
+    <icon>https://lyuweihua.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[迈出一小步]]></title>
+        <id>step-forward</id>
+        <link href="https://lyuweihua.github.io/zh-CN/blog/step-forward"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[社区版提交了第一个版本，文档和测试用例还没来得及补上。本框架来源自开源社区，完全属于自用框架，考虑到或许有人也会有需要，拆分整理出来提供给需要到人。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加油！加油！]]></title>
+        <id>hurry-up</id>
+        <link href="https://lyuweihua.github.io/zh-CN/blog/hurry-up"/>
+        <updated>2021-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[断断续续的开发了快一年了，离预期目标还好远，好多想法还没实现，基础框架也还欠缺不少模块。文档还没整理，测试用例也没有。。。先收缩一下，尽快发一个社区版吧]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开工了]]></title>
+        <id>start</id>
+        <link href="https://lyuweihua.github.io/zh-CN/blog/start"/>
+        <updated>2020-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写点什么呢？嗯，就这样。准备好了，开始干活。。。]]></summary>
+    </entry>
+</feed>
